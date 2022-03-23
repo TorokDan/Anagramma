@@ -1,6 +1,6 @@
 ﻿namespace Anagramma
 {
-    class Gyerek : Mezo
+    public class Gyerek : Mezo
     {
         protected Mezo anya;
         protected string szo;

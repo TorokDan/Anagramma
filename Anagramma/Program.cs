@@ -10,11 +10,7 @@ namespace Anagramma
     {
         static void Main(string[] args)
         {
-            OsAnya tesztAnya = new OsAnya('a');
-            Gyerek tesztGyerekB = new Gyerek(tesztAnya, 'b');
-            Gyerek tesztGyerekC = new Gyerek(tesztGyerekB, 'c');
 
-            Console.WriteLine(tesztGyerekC.ToString());
         }
     }
 }

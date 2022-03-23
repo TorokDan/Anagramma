@@ -1,6 +1,6 @@
 ﻿namespace Anagramma
 {
-    class OsAnya : Mezo
+    public class OsAnya : Mezo
     {
         public OsAnya(char ertek) : base(ertek)
         {

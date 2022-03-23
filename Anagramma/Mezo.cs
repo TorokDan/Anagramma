@@ -1,6 +1,6 @@
 ﻿namespace Anagramma
 {
-    abstract class Mezo
+    public abstract class Mezo
     {
         protected char ertek;
         protected int szint;

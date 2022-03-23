@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagramma", "Anagramma\Anagramma.csproj", "{E2C09632-CE6C-4537-9016-51C09834343E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagramma.UnitTests", "Anagramma.UnitTests\Anagramma.UnitTests.csproj", "{58C388EE-A97E-40FC-AABF-437BE2B614CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E2C09632-CE6C-4537-9016-51C09834343E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2C09632-CE6C-4537-9016-51C09834343E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2C09632-CE6C-4537-9016-51C09834343E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C388EE-A97E-40FC-AABF-437BE2B614CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C388EE-A97E-40FC-AABF-437BE2B614CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C388EE-A97E-40FC-AABF-437BE2B614CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C388EE-A97E-40FC-AABF-437BE2B614CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
